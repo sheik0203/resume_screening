@@ -1,4 +1,4 @@
-# AI-Powered Resume Screening and Job Matching System
+# Job Matching Pro
 
 A Django web application that compares PDF resumes with a job description, identifies relevant skills, and ranks candidates using TF-IDF and cosine similarity. Matching runs locally without an external AI API or paid service.
 
